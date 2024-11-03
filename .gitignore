@@ -1,0 +1,21 @@
+# Fichiers d'environnement
+.env
+
+# Environnements virtuels
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# Fichiers de log
+*.log
+
+# Dossiers de tests
+tests/__pycache__/

@@ -1,0 +1,13 @@
+- liste user agent
+- Ajout header
+- scrap proxy (free-proxy-list.net)
+
+
+###
+
+Mettre en place le scraping pour les annonces indeed
+
+- scraping de la premiere page de indeed
+    - recuperer (titre de l'annonce, nom entreprise, lien page principal, lieu? )
+###
+

@@ -1,4 +1,0 @@
-- liste user agent
-- Ajout header
-- scrap proxy (free-proxy-list.net)
-
